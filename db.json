@@ -1,0 +1,74 @@
+{
+  "veggies": [
+    {
+      "id": 1,
+      "title": "Yummy Veggie 1",
+      "description": "Ahh, this is one good",
+      "favourite": true,
+      "img": "./assets/images/veggies/1.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Yummy Veggie 2",
+      "description": "Ahh, this is one good",
+      "favourite": true,
+      "img": "./assets/images/veggies/2.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Yummy Veggie 3",
+      "description": "Ahh, this is one good",
+      "favourite": true,
+      "img": "./assets/images/veggies/3.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Yummy Veggie 4",
+      "description": "Ahh, this is one good",
+      "favourite": false,
+      "img": "./assets/images/veggies/4.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Yummy Veggie 5",
+      "description": "Ahh, this is one good",
+      "favourite": true,
+      "img": "./assets/images/veggies/5.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Yummy Veggie 6",
+      "description": "Ahh, this is one good",
+      "favourite": false,
+      "img": "./assets/images/veggies/6.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Yummy Veggie 7",
+      "description": "Ahh, this is one good",
+      "favourite": true,
+      "img": "./assets/images/veggies/7.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Yummy Veggie 8",
+      "description": "Ahh, this is one good",
+      "favourite": false,
+      "img": "./assets/images/veggies/8.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Yummy Veggie 9",
+      "description": "Ahh, this is one good",
+      "favourite": false,
+      "img": "./assets/images/veggies/9.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Yummy Veggie 10",
+      "description": "Ahh, this is one good",
+      "favourite": false,
+      "img": "./assets/images/veggies/10.jpg"
+    }
+  ]
+}

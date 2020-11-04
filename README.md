@@ -14,6 +14,10 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
+### `json-server --watch db.json --port 2000`
+
+Runs the database the contains the data on the the veggies
+
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.\
